@@ -148,7 +148,7 @@ It's a classic troll that aims to lure gamers. Typically, the most obvious inter
 
 ### How?
 
-There are various scripts, including [my custom Bash](https://github.com/jmau111-org/subdomain_enumerator) that aggregates results from other tools.
+There are various scripts, including [my custom Bash](https://github.com/jmau111-org/se) that aggregates results from other tools.
 
 ## Easy paths for escalation
 
