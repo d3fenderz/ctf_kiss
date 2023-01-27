@@ -46,7 +46,7 @@ CTFs emulate common flaws, like using the same passwords everyhwere. That's why 
 
 It's not uncommon that two different CTFs involve quite the same approach. Having your own customized kits and dirty scripts is a great asset that will save time, so don't repeat the same actions all the time.
 
-You may also use [Metasploit](https://github.com/rapid7/metasploit-framework) instead of creating and uploading [reverse shells](https://github.com/jmau111-org/rsgen) manually.
+You may also use [Metasploit](https://github.com/rapid7/metasploit-framework) instead of creating and uploading reverse shells manually.
 
 ### Leverage dedicated frameworks
 
