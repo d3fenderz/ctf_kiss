@@ -146,10 +146,6 @@ When basic enumeration does not reveal anything useful, you can try subdomain en
 
 It's a classic troll that aims to lure gamers. Typically, the most obvious interface (e.g., http://{IP}) contains a WordPress or a static HTML/CSS website, but engaging a Brute-Force attack on the login would be a rabbit hole (e.g., strong passwords).
 
-### How?
-
-There are various scripts, including [my custom Bash](https://github.com/jmau111-org/se) that aggregates results from other tools.
-
 ## Easy paths for escalation
 
 At this point, you will likely have the user flag, so a local user to perform a privilege escalation.
